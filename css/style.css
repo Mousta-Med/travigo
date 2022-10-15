@@ -452,6 +452,15 @@ button{
 	filter: brightness(100%) hue-rotate(45deg);
 	transform: scale(1.04);
 }
+.thumv2 h3{
+	position: absolute;
+	font-size: 30px;
+	font-weight: 600;
+	text-align: right;
+	color: var(--bg-color);
+	top: 36px;
+	right: 40px;
+}
 .packagev2-content{
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(200px, auto));
