@@ -185,6 +185,7 @@ header.sticky{
 	grid-gap: 2rem;
 	align-items: center;
 	margin-top: 5rem;
+	margin-bottom: -25%;
 }
 .thum{
 	position: relative;
@@ -195,6 +196,7 @@ header.sticky{
 .thum img{
 	width: 100%;
 	height: auto;
+
 }
 .thum h3{
 	position: absolute;
@@ -395,7 +397,7 @@ button{
 }
 
 .tour-container{
-	width: 50%;  
+	width: auto;  
 	margin-bottom: -70px;
 	margin: 20px auto auto;
 }
@@ -424,6 +426,7 @@ button{
 	display: flex; 
 	justify-content: space-between;
 	margin-bottom: 30px;
+	
 }
 .input-tour-row .tour-input{
 	flex-basis: 45%;
@@ -432,7 +435,7 @@ button{
     text-align: center;
     border-color: #6e54fa;
 	border-radius: 10px;
-	width: 80%; 
+	width: 85%; 
 	outline: none;
 	padding-bottom: 5px;
 } 
@@ -441,7 +444,6 @@ button{
 	transition: all .3s cubic-bezier(.445,.05,.55,.95);
 	will-change: filter;
 	cursor: pointer;
-	margin-top: -70%;
 }
 .thumv2 img{
 	width: 100%;
