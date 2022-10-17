@@ -466,7 +466,7 @@ button{
 	grid-template-columns: repeat(auto-fit, minmax(200px, auto));
 	grid-gap: 2rem;
 	align-items: center;
-	margin-top: 5rem;
+	margin-top: 10rem;
 	margin-bottom: -10%;
 }
 .package-contentv1{
