@@ -34,12 +34,17 @@ header{
 	padding: 30px 18%;
 	transition: ease .40s;
 }
+
 .logo{
 	font-size: 35px;
 	font-weight: 600;
 	letter-spacing: 1px;
 	color: var(--bg-color);
 }
+.purpel{
+	color: #6e54fa;
+}
+
 .navbar{
 	display: flex;
 }
