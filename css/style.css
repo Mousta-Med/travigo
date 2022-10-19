@@ -35,6 +35,10 @@ header{
 	transition: ease .40s;
 }
 
+.dark{
+	color: black !important;
+}
+
 .logo{
 	font-size: 35px;
 	font-weight: 600;
